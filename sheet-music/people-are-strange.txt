@@ -1,0 +1,46 @@
+0|9|8|
+[6p] [0a] [ep] [ts]|pe 0 (
+[9d] [ef] [yd] [ts]|pe 0 (
+[9d] [ef] [yd] [es]|pt 9(0
+[7a] [0s] [ea] [6p]|0 9 8
+[6p] [0a] [ep] [ts]|pe 0 (
+[9d] [ef] [yd] [ts]|pe 0 (
+[9d] edy e|[ts] [9s][(u]0
+7 [0p] [ep] [6p]|[0f] [9f] 8
+[0af]|[roa] [ua] [7os] [ud]r|
+[8os] [us] [wos] [os]8 [9ua] [(os] 0f
+0|[ud]| f h f
+0|[roa] [ua] [7os] [ud]r|
+[8os] [us] [wos] [os]8 [9ua] [(os] 0f
+0|[ud]| f h f
+0|[roa] [ua] [7osf] [udf] [rh] f
+0|[roa] [0ua] [7osf] [udf] [rh]|
+0|[roaf] [0uaD] [7osd] ur|
+[0uf]|[9ydf]|[8tsf]|[7raf]|
+[6ps] [ad] [0eps] [sf]e [ps] [we] 0
+[9ad] [sf] [qedg] [sf]e [ps] [0e] e
+[9ad] [sf] [qedg] [sf]e [ps] [qe] e
+[0ad] [sf] [W0ad] r[ps]e [ps]0 [0e] 0
+[6psf] [asd] [0epsf] [sfj]e [psf] [we] 0
+[9adH] [sfj] [qedgk] [sfj]e [psf] [0e] e
+[9dfH] j [qefgk] [fj]e [sf] [qef] e
+[0adH] f [W0uadfj] rf[epj] 0 [0e] 0
+6|e|e f [ef]|
+[0af]|[roa] [ua] [7os] [ud]r|
+[8os] [us] [wos] [os]8 [9ua] [(os] 0f
+0|[ud]| f h f
+0|[roa] [ua] [7os] [ud]r|
+[8os] [us] [wos] [os]8 [9ua] [(os] 0f
+0|[ud]| f h f
+0|[roa] [ua] [7osf] [udf] [rh] f
+0|[roa] [0ua] [7osf] [udf] [rh]|
+0|[roaf] [0uaD] [7osd] ur|
+[0uf]|[9ydf]|[8tsf]|[7raf]|
+[6ps] [ad] [0eps] [sf]e [ps] [we] 0
+[9ad] [sf] [qedg] [sf]e [ps] [0e] e
+[9ad] [sf] [qedg] [sf]e [ps] [qe] e
+[0ad] [sf] [W0ad] r[ps]e [ps]0 [0e] 0
+[6psf] [asd] [0epsf] [sfj]e [psf] [we] 0
+[9adH] [sfj] [qedgk] [sfj]e [psf] [0e] e
+[9dfH] j [qefgk] [fj]e [sf] [qef] e
+[70adH] f [W0adfj] rf[6epj]

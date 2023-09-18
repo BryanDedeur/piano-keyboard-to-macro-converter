@@ -1,0 +1,40 @@
+[wf]| [wd] d w| w|
+[0f]| [0d] d 0| [0f]|
+[es] de a [es] de a [9s]| [9p]|
+[9f] d9 s [qa] sq s q| q|
+[9a] s9 s w| [wd] s
+[8a] s8 s 8| 8| q| q| q| |
+[8f] hh8 h [8h] h [8j]| q| q| 0| 9|
+[8f] hh8 h [8h] h [8f]| 6| 6| 6|
+[6f] d [5d] dd5 d [8f] f 8|
+[5d] dd5 d [8f]| [5d] s
+[5o] p6 p 6| 6| [5h] j6 j 6| 6|
+[8f] hh8 h [8h] l [8j]| 6| 6| 6| 6|
+[8f] hh8 h [8h] h [8f]| 6| 6| 6| 6|
+[5d] dd5 d [8f] f 8| [5d] dd5 f 6|
+[6d] s [5o] p6 p 6| 6| 5| 6|
+[6s] d6 f [9f] g9 g 9| 9| 5| 5| [5h] j5 k
+[8k] l8 l 8| 8| [qk] lq l q z q l
+[8k] l8 l 8| 8| q| q| q| q|
+[8k] l8 l 8| 8| [qk] lq l q z q l
+[8z] x8 x 8| [wz]| [ql]| q| 8| 8|
+[5f]| [5d] d 5| 5| [0f]| [0d] d 0| [0f]|
+[es] de a [es] de a
+[9s]| [9p]| [9f] d9 s [qa] sq s q| q|
+[9a] s9 s w| [wd] s [8a] s8 s 8| 8| [8l]|||
+[8f] hh8 h [8h] l [8j]| 6| 6| 6| 6|
+[8f] hh8 h [8h] h [8f]| 6| 6| 6| 6|
+[5d] dd5 d [8f] f 8| [5d] dd5 f 6|
+[6d] s [5o] p6 p 6| 6| 5| 6|
+[6s] d6 f [9f] g9 g 9| 9| 5| 5|
+[5h] j5 k [8k] l8 l 8| 8|
+[qk] lq l q z q l
+[8k] l8 l 8| 8| q| q| q| q|
+[8k] l8 l 8| 8| [qk] lq l q z q l
+[8z] x8 x 8| [wz]| [ql]| q| 8| 8|
+[5f]| [5d] d 5| 5|
+[0f]| [0d] d 0| [0f]|
+[es] de a [es] de a [9s]| [9p]|
+[9f] d9 s [qa] sq s q| q|
+[9a] s9 s w| [wd] s
+[8a] s8 s 8| 8| [8l]
